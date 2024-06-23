@@ -15,8 +15,8 @@
 - Grupo: StockMastermind
 - Profesor: Bruno Roberti
 - Cátedra: Investigación Operativa
-- Proyecto: Sistema de gestión de inventario y predicción de la demanda.
-- Universidad Tecnológica Nacional - Facultad Regional Mendoza
+- Proyecto: Sistema de GCI y predicción de demanda.
+- Universidad Tecnológica Nacional - FRM
 
 # Carpeta del trabajo
 
